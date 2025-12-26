@@ -198,3 +198,8 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     margin-bottom: 24px;
     border: none;
 }
+
+ .link:hover{
+    background-color: white;
+    color: aqua;
+ }
